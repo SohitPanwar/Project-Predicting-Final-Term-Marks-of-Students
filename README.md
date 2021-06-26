@@ -1,1 +1,1 @@
-# Project-Predicting-Final-Term-Marks-of-Students
+# Project: Predicting-Final-Term-Marks-of-Students
