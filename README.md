@@ -12,6 +12,7 @@ Education is the building block of society. Traditionally, instructors have reli
 The features that we have worked upon will be benefical for parents/guardians to get an insight into the factors leading to the poor performance of their wards. 
 
 Code and Resources used:
+
 ◉Python 3.7
 ◉Packages: Pandas, Numpy, Matplotlib, Seaborn, Sklearn
 ◉Data: Kaggle
