@@ -23,5 +23,15 @@ Code and Resources used:
 
 EDA:
 
-Affect of Mother's Education(numeric: 0 - none, 1 - primary education (4th grade), 2- 5th to 9th grade, 3- secondary education or 4- higher education) on performance of student.
+Affect of Mother's Education(numeric: 0 - none, 1 - primary education (4th grade), 2- 5th to 9th grade, 3- secondary education or 4- higher education) 
+on performance of student. 
+
+
+![](https://github.com/SohitPanwar/Project-Predicting-Final-Term-Marks-of-Students/blob/main/Medu.png)
+
+
+
+Affect of Daily alcohol consumption on rate of failure among students
+
+
 
