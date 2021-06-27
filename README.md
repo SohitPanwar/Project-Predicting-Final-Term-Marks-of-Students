@@ -5,15 +5,17 @@
 
 In this notebook, we will conduct exploratory data analysis using Pandas and Seaborn to find any relationships between student background and student performance in the final term. We will also explore any possible reasonings to our insights and finish up with any key insights that we find.
 
-Motivation
+➢Motivation
 
-The use of machine learning and data mining techniques has exploded in recent years with the field of educational data mining making significant growth in the past two decades. Physics Education Research has benefitted from educational data mining adding to the scientific literacy tremendously. However, relatively less work was done in primarily undergraduate institutions (PUI) and minority-serving institutions. As part of an effort to provide evidence for the reproducibility of educational studies for a variety of student body as well exploring possible gender or racial gaps in student’s performance, data was collected over a year-long period for a number of introductory physics courses at this institution (both a PUI and Hispanic serving institution) to understand factors that affect students’ performance in an introductory Physics Course as well as the Force Concept Inventory
-Problem Statement
+Education is the building block of society. Traditionally, instructors have relied on assessments and periodic tests to judge the students’ progress. This often resulted in late identification of struggling individuals. With the help of tools of Machine Learning we can identify patterns and instructors can make changes to help struggling learners.This project is based on the data gathered from 2 schools of Portugal. The data attributes include student grades, demographic, social and school related features. All these features are essential in understanding the performance of students in academics.
 
-Given access to institional data on students taking an introductory calculus-based mechanics course (e.g. Gender, SAT Scores, ACT Scores, High School GPA, Math Score (when applicable), Force Concept Inventory Score, etc...), can we identify any trends in student performance and more importantly, can we find an explanation for these trends. To accomplish this task, we will use a set of real-world data collected from students enrolled in Physics 131 for the entire 2017 Academic Year at this institution.
-Click to see all measures and dimensions of the dataset
-Some Exploratory Data Analysis (Physics Grade Distributions, Pre/Post Force Concept Inventory (FCI) Scores)
+The features that we have worked upon will be benefical for parents/guardians to get an insight into the factors leading to the poor performance of their wards. 
 
-Note: FCI is a measure of a student's understanding of Newtonian Mechanics. Used to assess student's understanding of Newtonian Mechanics post-course
-Preliminary Analysis Pre-Course & Correlation Plot
+Code and Resources used:
+◉Python 3.7
+◉Packages: Pandas, Numpy, Matplotlib, Seaborn, Sklearn
+◉Data: Kaggle
+
+
+EDA
 
