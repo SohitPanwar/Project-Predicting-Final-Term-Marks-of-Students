@@ -14,9 +14,14 @@ The features that we have worked upon will be benefical for parents/guardians to
 Code and Resources used:
 
 ◉Python 3.7
+
 ◉Packages: Pandas, Numpy, Matplotlib, Seaborn, Sklearn
+
 ◉Data: Kaggle
 
 
-EDA
+
+EDA:
+
+Affect of Mother's Education(numeric: 0 - none, 1 - primary education (4th grade), 2- 5th to 9th grade, 3- secondary education or 4- higher education) on performance of student.
 
