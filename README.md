@@ -44,7 +44,7 @@ Affect of Daily alcohol consumption on rate of failure among students
 Studytime ie number of hours spent for studying plays a vital role which is visible in this plot.
 
 
-![](https://github.com/SohitPanwar/Project-Predicting-Final-Term-Marks-of-Students/blob/main/studtytime.png)
+![](https://github.com/SohitPanwar/Project-Predicting-Final-Term-Marks-of-Students/blob/main/Studtytime.png)
 
 
 ➢Algorithms:
